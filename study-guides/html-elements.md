@@ -1,3 +1,7 @@
+<<<<<<< HEAD
+=======
+
+>>>>>>> b1a19b589f81bdf0409bdde406873c563edf994d
 ## Common HTML Elements
 
 ## Defining HTML Elements
