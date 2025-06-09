@@ -1,4 +1,4 @@
-# HTML Elements and Syntax
+## Common HTML Elements
 
 ## Defining HTML Elements
 
