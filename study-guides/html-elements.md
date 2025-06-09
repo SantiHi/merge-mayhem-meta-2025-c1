@@ -1,5 +1,4 @@
 
-
 ## Common HTML Elements
 
 In this lab, we will introduce you to a few common HTML elements and their syntax, but we highly recommend you check out MDN docs for a [full list of HTML elements](https://developer.mozilla.org/en-US/docs/Web/HTML/Element).
